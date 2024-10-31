@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("SEA.Profile.Tests")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+dfe02b7b55cfdf3fc3c1f51db62ffddb32fc2079")]
 [assembly: System.Reflection.AssemblyProductAttribute("SEA.Profile.Tests")]
 [assembly: System.Reflection.AssemblyTitleAttribute("SEA.Profile.Tests")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
