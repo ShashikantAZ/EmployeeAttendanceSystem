@@ -1,0 +1,66 @@
+﻿# Ignore bin and obj folders in all projects
+**/bin/
+**/obj/
+
+# Ignore Debug and Release folders in all projects
+**/Debug/
+**/Release/
+
+# Rider
+.idea/
+*.sln.iml
+
+# VS Code
+.vscode/
+
+# Visual Studio
+.vs/
+*.user
+*.userosscache
+*.suo
+*.sln.docstates
+
+# ASP.NET Scaffolding
+.scaffolding/
+
+# Npm Packages
+node_modules/
+
+# Log files
+*.log
+
+# NuGet Packages
+*.nupkg
+packages/
+project.lock.json
+project.fragment.lock.json
+artifacts/
+
+# Resharper
+_ReSharper*
+*.[Rr]e[Ss]harper
+
+# Azure Functions artifacts
+local.settings.json
+storage/
+
+# Publish directory
+publish/
+app.publish/
+
+# Temporary files
+~$*
+
+# Folder config file
+Desktop.ini
+
+# Recycle Bin used on file shares
+$RECYCLE.BIN/
+
+# User-specific files
+*.rsuser
+*.sln.ide
+
+# Windows image file caches
+Thumbs.db
+ehthumbs.db

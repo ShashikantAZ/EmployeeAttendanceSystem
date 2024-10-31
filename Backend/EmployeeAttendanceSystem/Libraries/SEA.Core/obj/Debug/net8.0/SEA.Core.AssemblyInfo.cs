@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("SEA.Core")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+dfe02b7b55cfdf3fc3c1f51db62ffddb32fc2079")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+9bc805f97794526d51d914d9a426b7ee1e638ac5")]
 [assembly: System.Reflection.AssemblyProductAttribute("SEA.Core")]
 [assembly: System.Reflection.AssemblyTitleAttribute("SEA.Core")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
